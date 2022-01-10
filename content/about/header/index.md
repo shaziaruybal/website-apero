@@ -3,8 +3,7 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  Hi, my name is Emily Cooper. Nice to meet you.
+  Hola hola!
 ---
 
-<!-- this is a subheadline -->
-I'm a driven 20-something American from Chicago who moved to Paris for an unexpected job opportunity. I've been tasked with bringing an American point of view to a venerable French marketing firm. :fr:
+I am originally from Ecuador and USA living in Melbourne, Australia since 2014. As a molecular epidemiologist with expertise in population genetics, epidemiology, and bioinformatics, I'm interested in combining these approaches to population-based studies of infectious diseases, particularly malaria and more recently COVID-19. 

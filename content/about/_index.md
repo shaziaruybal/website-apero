@@ -1,12 +1,11 @@
 ---
-title: "About"
-description: |
-  A blog template for Hugo developed by RStudio & Formspree and available for free.
-show_header: true
-sidebar_left: false
-# Keep this! Do not edit.
 cascade:
   headless: true
+description: |
+  The personal website of Shazia Ruybal Pesántez.
+show_header: false
+sidebar_left: true
+title: About me
 ---
 
 ** index doesn't contain a body, just front matter above.

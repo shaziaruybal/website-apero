@@ -1,14 +1,14 @@
-baseURL = "/"
+baseURL = "https://www.shaziaruybal.com/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Hugo Apéro"
-author = "Alison Hill"
+author = "Shazia Ruybal Pesántez"
 copyright = "" # set to override the auto generated copyright using org info and now year
-googleAnalytics = ""
-disqusShortname = ""
+googleAnalytics = "UA-155867251-1"
+disqusShortname = "" # see params.utterances to use utterances instead of Disqus
 metaDataFormat = "yaml"
 footnoteReturnLinkContents = "&#8617;" # ↩
-# set deliberately low for testing choose your prefered number based on the blog layout you've chosen
+# set deliberately low for testing choose your preffered number based on the blog layout you've chosen
 paginate = 5
 preserveTaxonomyNames = true
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
@@ -28,59 +28,87 @@ enableEmoji = true
     style = "github"
     
 [params]
-  orgName = "RStudio"
-  orgLocal = "Anywhere"
-  description = "A modern, beautiful, and easily configurable blog theme for Hugo."
-  favicon = "/img/favicon.ico"
-  logo = "/img/blogophonic-mark-dark.png"
-  # select sections to highlight on about page
-  mainSections = ["blog", "project", "talk"]
-  show_social_links = true
+  orgName = "Shazia Ruybal Pesántez"
+  orgLocal = ""
+  description = ""
+  favicon = "/img/caricatura_favicon.jpg"
+  logo = "/img/caricatura_transparente.png"
+  mainSections = ["project", "publications"]
   navallcaps = true
+  # show/hide social icons in site header & footer
+  # configure social icons and links below in [[params.social]]
+  socialInHeader = false
+  socialInFooter = true
   # Default image for social sharing and search engines. 
   # Place image file in `static` folder and specify image name here.
-  sharing_image = "/img/papillons.jpg"
+  sharing_image = "/img/caricatura_transparent.png"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
-  twitter = "apreshill"
-  
-  # basic font options: sans-serif or serif
-  # for more http://tachyons.io/docs/typography/font-family/
-  textFontFamily = "sans-serif"
-  headingFontFamily = "sans-serif"
-  # alternatively, use a built-in font-family
-  # serif options: Fraunces / EB Garamond / Bitter
-  # sans-serif options: Commissioner / Alegreya Sans / Metropolis
-  customtextFontFamily = "Commissioner"
-  customheadingFontFamily = "Fraunces"
+  twitter = "drshaziaruybal"
   
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
-  #         poppy / sky / violet / water
-  theme = "sky"
+  #         poppy / sky / violet / water 
+  theme = "forest"
   
   # or, leave theme empty & make your own palette
-  # basic color options: use only color names as shown in the
-  # "Color Palette" section of http://tachyons.io/docs/themes/skins/
-  siteBgColor = "near-white"
-  sidebarBgColor = "light-gray"
-  headlineColor = "dark-pink"
-  headingColor = "near-black"
-  textColor = "dark-gray"
-  sidebarTextColor = "mid-gray"
-  bodyLinkColor = "blue"
-  navLinkColor = "near-black"
-  sidebarLinkColor = "near-black"
-  footerTextColor = "silver"
-  buttonTextColor = "near-white"
-  buttonBgColor = "black"
-  buttonHoverTextColor = "white"
-  buttonHoverBgColor = "blue"
-  borderColor = "moon-gray"
+  # see docs at https://hugo-apero.netlify.app/blog/color-themes/
+  # the custom scss file must be in the assets/ folder
+  # add the filename name here, without extension
+  # to use hex colors instead of named tachyons colors, include "hex" in filename
+  custom_theme = "" 
   
-  # show/hide social icons in site header/footer/home page
-  socialInHeader = false
-  socialInFooter = true
-  socialInHome = true
+  # use an embedded font-family
+  # serif options: Fraunces / EB Garamond / Bitter
+  # sans-serif options: Commissioner / Atkinson Hyperlegible / Metropolis
+  # if you import your own fonts, name them here too
+  customtextFontFamily = "Commissioner"
+  customheadingFontFamily = "Fraunces"
+  # alternatively, leave empty and select basic font options: sans-serif or serif
+  # for more http://tachyons.io/docs/typography/font-family/
+  textFontFamily = "sans-serif"
+  headingFontFamily = "sans-serif"
+
+  # Configuration of https://utteranc.es/ for comments
+  [params.utterances]
+    use_utterances = true
+    repo_name = "shaziaruybal/website-apero"
+    issue_term = "pathname" # url, pathname, or title
+    theme = "boxy-light"
+    label = "comments :crystal_ball:"
+
+  # Configuration of math rendering
+  [params.math]
+    renderer = "katex" # one of "mathjax" / "katex" 
+
+  # Social icons may appear on homepage and in site header or footer
+  # Configure show/hide above - add as many as you like below
+  # Icon pack "fab" includes brand icons, see: https://fontawesome.com/icons?d=gallery&s=brands&m=free
+  # Icon pack "fas" includes solid icons, see: https://fontawesome.com/icons?d=gallery&s=solid&m=free
+  # Icon pack "far" includes regular icons, see: https://fontawesome.com/icons?d=gallery&s=regular&m=free
+  [[params.social]]
+      icon      = "github" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://github.com/shaziaruybal/"
+  [[params.social]]
+      icon      = "twitter" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://twitter.com/drshaziaruybal"
+  [[params.social]]
+      icon      = "linkedin" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://www.linkedin.com/shazia-ruybal-pesantez"
+  [[params.social]]
+      icon      = "google-scholar" # icon name without the 'fa-'
+      icon_pack = "ai"
+      url       = "https://scholar.google.com/citations?user=E7dY4foAAAAJ"
+  [[params.social]]
+      icon      = "orcid" # icon name without the 'fa-'
+      icon_pack = "ai"
+      url       = "http://orcid.org/0000-0002-0495-179X"
+  [[params.social]]
+      icon      = "researchgate" # icon name without the 'fa-'
+      icon_pack = "ai"
+      url       = "https://www.researchgate.net/profile/Shazia-Ruybal-Pesantez"
 
 [taxonomies]
   category = "categories"
@@ -88,33 +116,64 @@ enableEmoji = true
   tag = "tags"
 
 [menu]
+  # Configure header 
   [[menu.header]]
     name = "About"
-    title = "About Blogophonic"
+    title = "About me"
     url = "/about/"
     weight = 1
-  [[menu.header]]
-    name = "Blog"
-    title = "Blog"
-    url = "/blog/"
-    weight = 2
   [[menu.header]]
     name = "Projects"
     title = "Project Portfolio"
     url = "/project/"
+    weight = 2
+  [[menu.header]]
+    name = "Publications"
+    title = "Publications"
+    url = "/publications/"
     weight = 3
   [[menu.header]]
-    name = "Talks"
-    title = "Talks"
-    url = "/talk/"
+    name = "CV"
+    title = "CV"
+    url = "/files/cv-vitae.pdf"
     weight = 4
-  [[menu.header]]
-    name = "A collection"
-    title = "A collection"
-    url = "/collection/"
-    weight = 5
-  [[menu.header]]
-    name = "Elements"
-    title = "Element Page"
-    url = "/elements/"
-    weight = 6
+    
+  # Configure footer  
+  [[menu.footer]]
+    name = "License"
+    title = "License"
+    url = "/license/"
+    weight = 1
+ # [[menu.footer]]
+ #  name = "Contact"
+ #   title = "Contact form"
+ #   url = "/contact/"
+ #  weight = 2
+ # [[menu.footer]]
+ #  name = "Contributors"
+ #  title = "Contributors"
+ #  url = "/contributors/"
+ #  weight = 3
+
+# see https://gohugo.io/about/hugo-and-gdpr/    
+[privacy]
+  [privacy.disqus]
+    disable = false
+  [privacy.googleAnalytics]
+    disable = false
+    anonymizeIP = true
+    respectDoNotTrack = true
+  [privacy.instagram]
+    disable = false
+    simple = true
+  [privacy.twitter]
+    disable = false
+    enableDNT = true
+    simple = false
+  [privacy.vimeo]
+    disable = false
+    enableDNT = true
+    simple = true
+  [privacy.youtube]
+    disable = false
+    privacyEnhanced = true

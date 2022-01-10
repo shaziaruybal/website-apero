@@ -1,16 +1,16 @@
 ---
-title: "Emily Cooper"
-subtitle: "Social media strategy @ Savoir"
-description: "Not all themes are created equal. With Blogophonic we set out to create a clean theme with the right features for a serious blog. We also wanted Blogophonic to be a pleasure to modify, so we built it with Tachyons, CSS Grid and packed it full of configurable options."
-date: 2019-02-18T12:27:33-06:00
-images:
-  - img/revoir.jpg
-image_left: true
-text_align_left: false
-show_action_link: true
+action_label: More about me &rarr;
 action_link: /about
-action_label: "Read More &rarr;"
-action_type: text # text, button
+action_type: text
+description: I am originally from Ecuador and USA living in Melbourne, Australia since 2014. As a molecular epidemiologist with expertise in population genetics, epidemiology, and bioinformatics, I'm interested in combining these approaches to population-based studies of infectious diseases, particularly malaria and more recently COVID-19. I am also an avid R user and am passionate about open science and the development of digital tools for research.
+image_left: false
+images:
+- img/caricatura_transparente.png
+show_action_link: true
+show_social_links: true
+subtitle: Postdoctoral Research Scientist | President @ R-Ladies Melbourne
+text_align_left: true
+title: Shazia Ruybal Pesántez
 type: home
 ---
 
