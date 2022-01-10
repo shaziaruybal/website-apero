@@ -14,7 +14,7 @@ publication_types:
   - '2'
 publication: 'Ecology and Evolution'
 summary: 'We explored the evolutionary and ecological dynamics of *P. falciparum* antigenic diversity.'
-subtitle: 'We explored the evolutionary and ecological dynamics of *P. falciparum* antigenic diversity'
+subtitle: 'We explored the evolutionary and ecological dynamics of P. falciparum antigenic diversity'
 featured: yes
 links:
 - icon: doi

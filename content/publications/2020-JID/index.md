@@ -1,5 +1,5 @@
 ---
-title: "Evolution of Antimalarial Drug Resistance Markers in the Reservoir of *Plasmodium falciparum* Infections in the Upper East Region of Ghana"
+title: "Evolution of Antimalarial Drug Resistance Markers in the Reservoir of Plasmodium falciparum Infections in the Upper East Region of Ghana"
 author: "Charles A Narh,  Anita Ghansah,  Michael F Duffy,  Shazia Ruybal-Pesántez, Christiana O Onwona,  Abraham R Oduro,  Kwadwo A Koram,  Karen P Day* , Kathryn E Tiedje*"
 date: '2020-05-27'
 slug: ghana-pilot-dr
@@ -12,8 +12,8 @@ doi: 'https://doi.org/10.1093/infdis/jiaa286'
 publishDate: '2020-05-27'
 publication_types:
   - '2'
-excerpt: 'We described the evolution of antimalarial drug resistance in Bongo, Ghana'
-subtitle: 'We described the evolution of antimalarial drug resistance in Bongo, Ghana'
+excerpt: 'We described the evolution of *P. falciparum* antimalarial drug resistance in Bongo, Ghana'
+subtitle: 'We described the evolution of P. falciparum antimalarial drug resistance in Bongo, Ghana'
 featured: yes
 links:
 - icon: doi

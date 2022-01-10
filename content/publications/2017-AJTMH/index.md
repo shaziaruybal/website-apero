@@ -1,5 +1,5 @@
 ---
-title: "Lack of geospatial population structure yet significant linkage disequilibrium in the reservoir of *Plasmodium falciparum* in Bongo District, Ghana"
+title: "Lack of geospatial population structure yet significant linkage disequilibrium in the reservoir of Plasmodium falciparum in Bongo District, Ghana"
 author: "Shazia Ruybal-Pesántez, Kathryn E. Tiedje, Mary M. Rorick, Lucas Amenga-Etego, Anita Ghansah, Abraham R. Oduro, Kwadwo A. Koram, and Karen P. Day"
 date: '2017-07-03'
 slug: microsat-ghana
@@ -14,7 +14,7 @@ publication_types:
   - '2'
 publication: 'American Journal of Tropical Medicine and Hygiene'
 summary: 'We examined the population genetics of the asymptomatic *P. falciparum* reservoir in Ghana.'
-subtitle: 'We examined the population genetics of the asymptomatic *P. falciparum* reservoir in Ghana'
+subtitle: 'We examined the population genetics of the asymptomatic P. falciparum reservoir in Ghana'
 featured: yes
 links:
 - icon: doi

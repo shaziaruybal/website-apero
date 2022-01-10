@@ -1,5 +1,5 @@
 ---
-title: "Evolutionary analyses of the major variant surface antigen-encoding genes reveal population structure of *Plasmodium falciparum* within and between continents"
+title: "Evolutionary analyses of the major variant surface antigen-encoding genes reveal population structure of Plasmodium falciparum within and between continents"
 author: "Gerry Tonkin-Hill, Shazia Ruybal-Pesántez, Kathryn E. Tiedje, Virginie Rougeron, Michael F. Duffy, Sedigheh Zakeri, Tepanata Pumpaibool, Pongchai Harnyuttanakorn, OraLee H. Branch, Lastenia Ruiz-Mesía, Thomas S. Rask, Franck Prugnolle, Anthony T. Papenfuss, Yao-ban Chan, Karen P. Day"
 date: '2021-02-25'
 slug: var-global
@@ -12,8 +12,8 @@ doi: 'https://doi.org/10.1371/journal.pgen.1009269'
 publishDate: '2021-02-25'
 publication_types:
   - '2'
-excerpt: 'We described population structure at of the highly diverse genes encoding the immunodominant surface antigen of *P falciparum* at the global scale. This work was chosen by the PLOS Genetics editors to be featured with an accompanying [Perspectives piece.](https://doi.org/10.1371/journal.pgen.1009344)'
-subtitle: 'We described population structure at of the highly diverse genes encoding the immunodominant surface antigen of *P falciparum* at the global scale'
+excerpt: 'We described population structure at of the highly diverse genes encoding the immunodominant surface antigen of *P. falciparum* at the global scale. This work was chosen by the PLOS Genetics editors to be featured with an accompanying [Perspectives piece.](https://doi.org/10.1371/journal.pgen.1009344)'
+subtitle: 'We described population structure at of the highly diverse genes encoding the immunodominant surface antigen of P. falciparum at the global scale'
 featured: yes
 links:
 - icon: doi

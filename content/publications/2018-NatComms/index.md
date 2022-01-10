@@ -1,5 +1,5 @@
 ---
-title: "Networks of genetic similarity reveal non-neutral processes shape strain structure in *Plasmodium falciparum*"
+title: "Networks of genetic similarity reveal non-neutral processes shape strain structure in Plasmodium falciparum"
 author: "Qixin He, Shai Pilosof, Kathryn E Tiedje, Shazia Ruybal-Pesántez, Yael Artzy-Randrup, Edward B Baskerville, Karen P Day, Mercedes Pascual"
 date: '2018-05-08'
 slug: var-networks

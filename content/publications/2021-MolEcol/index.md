@@ -1,5 +1,5 @@
 ---
-title: "The impact of indoor residual spraying on *Plasmodium falciparum* microsatellite variation in an area of high seasonal malaria transmission in Ghana, West Africa"
+title: "The impact of indoor residual spraying on Plasmodium falciparum microsatellite variation in an area of high seasonal malaria transmission in Ghana, West Africa"
 author: "Dionne C. Argyropoulos* , Shazia Ruybal-Pesántez* , Samantha L. Deed, Abraham R. Oduro, Samuel K. Dadzie, Maxwell A. Appawu, Victor Asoala, Mercedes Pascual, Kwadwo A. Koram, Karen P. Day* , Kathryn E. Tiedje*"
 date: '2021-06-18'
 slug: microsat-irs

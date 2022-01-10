@@ -1,5 +1,5 @@
 ---
-title: "Clinical malaria incidence following an outbreak in Ecuador was predominantly associated with *Plasmodium falciparum* with recombinant variant antigen gene repertoires"
+title: "Clinical malaria incidence following an outbreak in Ecuador was predominantly associated with Plasmodium falciparum with recombinant variant antigen gene repertoires"
 author: "Shazia Ruybal-Pesántez, Fabian E. Sáenz, Samantha Deed, Erik K. Johnson, Daniel B. Larremore, Claudia A. Vera-Arias, Kathryn E. Tiedje, Karen P. Day"
 date: '2021-04-15'
 slug: ecu-varcode
@@ -12,8 +12,8 @@ doi: 'https://www.medrxiv.org/content/10.1101/2021.04.12.21255093v1'
 publishDate: '2021-04-15'
 publication_types:
   - '2'
-excerpt: 'We describe the genomic epidemiology of continued malaria disease tranmission in Ecuador after and outbreak and explore whether clinical cases are imported or locally-acquired.'
-subtitle: 'We describe the genomic epidemiology of continued malaria disease tranmission in Ecuador after and outbreak and explore whether clinical cases are imported or locally-acquired.'
+excerpt: 'We describe the genomic epidemiology of continued malaria disease transmission in Ecuador after and outbreak and explore whether clinical cases are imported or locally-acquired.'
+subtitle: 'We describe the genomic epidemiology of continued malaria disease transmission in Ecuador after and outbreak and explore whether clinical cases are imported or locally-acquired.'
 featured: yes
 links:
 - icon: doi

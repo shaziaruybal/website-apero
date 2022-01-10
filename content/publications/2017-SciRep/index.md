@@ -1,5 +1,5 @@
 ---
-title: "Population genomics of virulence genes of *Plasmodium falciparum* in clinical isolates from Uganda"
+title: "Population genomics of virulence genes of Plasmodium falciparum in clinical isolates from Uganda"
 author: "Shazia Ruybal-Pesántez* , Kathryn E. Tiedje*, Gerry Tonkin-Hill, Thomas S Rask, Moses R Kamya, Bryan Greenhouse, Grant Dorsey, Michael F Duffy, Karen P Day"
 date: '2017-09-18'
 slug: var-uganda
@@ -14,7 +14,7 @@ publication_types:
   - '2'
 publication: 'Scientific Reports'
 summary: 'We investigated the population genomics of *var* genes in cases of uncomplicated malaria in Uganda.'
-subtitle: 'We investigated the population genomics of *var* genes in cases of uncomplicated malaria in Uganda'
+subtitle: 'We investigated the population genomics of var genes in cases of uncomplicated malaria in Uganda'
 featured: yes
 links:
 - icon: doi
