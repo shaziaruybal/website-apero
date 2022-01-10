@@ -30,7 +30,7 @@ enableEmoji = true
 [params]
   orgName = "Shazia Ruybal Pesántez"
   orgLocal = ""
-  description = ""
+  description = "Personal website for Dr. Shazia Ruybal-Pesántez, a molecular epidemiologist based in Melbourne, Australia."
   favicon = "/img/caricatura_favicon.jpg"
   logo = "/img/caricatura_transparente.png"
   mainSections = ["project", "publications"]
@@ -108,7 +108,10 @@ enableEmoji = true
       icon      = "researchgate" # icon name without the 'fa-'
       icon_pack = "ai"
       url       = "https://www.researchgate.net/profile/Shazia-Ruybal-Pesantez"
-
+  [[params.social]]
+      icon      = "envelope" # icon name without the 'fa-'
+      icon_pack = "fas"
+      url       = "mailto:ruybal.s@wehi.edu.au"
 [taxonomies]
   category = "categories"
   series = "series"
@@ -123,7 +126,7 @@ enableEmoji = true
     weight = 1
   [[menu.header]]
     name = "Projects"
-    title = "Project Portfolio"
+    title = "Projects"
     url = "/project/"
     weight = 2
   [[menu.header]]
