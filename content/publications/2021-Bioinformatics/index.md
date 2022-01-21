@@ -8,21 +8,20 @@ alias:
 categories:
   - Research
 tags:
-doi: ''
-publishDate: '2021-12-27'
+doi: 'https://doi.org/10.1093/bioinformatics/btac012'
+publishDate: '2022-01-13'
 publication_types:
   - '2'
-excerpt: 'We developed a new method to detect recent recombinant sequences without the need for a reference panel, and demonstrate its application to malaria parasite *var* genes that are highly recombinogenic. This article has been accepted in *Bioinformatics*.'
+excerpt: 'We developed a new method to detect recent recombinant sequences without the need for a reference panel, and demonstrate its application to malaria parasite *var* genes that are highly recombinogenic.'
 subtitle: 'We developed a new method to detect recent recombinant sequences without the need for a reference panel, and demonstrate its application to malaria parasite var genes that are highly recombinogenic.'
 featured: yes
 links:
 # - icon: doi
 #   icon_pack: ai
 #   name: Publication
-#   url: 
+#   url: https://doi.org/10.1093/bioinformatics/btac012
 ---
 
-**This article has been accepted in *Bioinformatics* **
 ## Abstract 
 
 #### Motivation: 
