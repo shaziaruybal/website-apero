@@ -22,7 +22,7 @@ links:
   url: https://doi.org/10.1016/j.ijpara.2021.12.001
 - icon: quote-left
   icon_pack: fas
-  name: *Her*minthology #WomenBehindTheWork
+  name: Herminthology #WomenBehindTheWork
   url: https://facebook.com/102760015458811/posts/151514423916703/?d=n
 ---
 
