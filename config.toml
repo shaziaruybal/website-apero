@@ -1,7 +1,7 @@
 baseURL = "https://shaziaruybal.com/"
 theme = "hugo-apero"
 languageCode = "en"
-title = "Hugo Apéro"
+title = "SRP"
 author = "Shazia Ruybal Pesántez"
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = "UA-155867251-1"
@@ -9,7 +9,7 @@ disqusShortname = "" # see params.utterances to use utterances instead of Disqus
 metaDataFormat = "yaml"
 footnoteReturnLinkContents = "&#8617;" # ↩
 # set deliberately low for testing choose your preffered number based on the blog layout you've chosen
-paginate = 5
+paginate = 10
 preserveTaxonomyNames = true
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
 enableEmoji = true
@@ -30,10 +30,10 @@ enableEmoji = true
 [params]
   orgName = "Shazia Ruybal Pesántez"
   orgLocal = ""
-  description = "Personal website for Dr. Shazia Ruybal-Pesántez, a molecular epidemiologist based in Melbourne, Australia."
+  description = "Personal website for Dr. Shazia Ruybal-Pesántez."
   favicon = "/img/caricatura_favicon.jpg"
   logo = "/img/caricatura_transparente.png"
-  mainSections = ["project", "publications"]
+  mainSections = ["project"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -111,7 +111,7 @@ enableEmoji = true
   [[params.social]]
       icon      = "envelope" # icon name without the 'fa-'
       icon_pack = "fas"
-      url       = "mailto:ruybal.s@wehi.edu.au"
+      url       = "mailto:shazia.ruybal@isglobal.org"
 [taxonomies]
   category = "categories"
   series = "series"
@@ -120,25 +120,34 @@ enableEmoji = true
 [menu]
   # Configure header 
   [[menu.header]]
+    name = "⌂"
+    url = "/"
+    weight = 1
+  [[menu.header]]
     name = "About"
     title = "About me"
     url = "/about/"
-    weight = 1
-  [[menu.header]]
-    name = "Projects"
-    title = "Projects"
-    url = "/project/"
     weight = 2
   [[menu.header]]
-    name = "Publications"
-    title = "Publications"
-    url = "/publications/"
+    name = "Research"
+    title = "Research"
+    url = "/project/"
     weight = 3
   [[menu.header]]
-    name = "CV"
-    title = "CV"
-    url = "/files/cv-vitae.pdf"
+    name = "Software"
+    title = "Software"
+    url = "/blog/"
     weight = 4
+#  [[menu.header]]
+#    name = "Publications"
+#    title = "Publications"
+#    url = "/publications/"
+#    weight = 5
+#  [[menu.header]]
+#    name = "CV"
+#    title = "CV"
+#    url = "/files/cv-vitae.pdf"
+#    weight = 6
     
   # Configure footer  
   [[menu.footer]]

@@ -14,7 +14,7 @@ publication_types:
   - '2'
 excerpt: 'We described the evolution of *P. falciparum* antimalarial drug resistance in Bongo, Ghana'
 subtitle: 'We described the evolution of P. falciparum antimalarial drug resistance in Bongo, Ghana'
-featured: yes
+featured: no
 links:
 - icon: doi
   icon_pack: ai

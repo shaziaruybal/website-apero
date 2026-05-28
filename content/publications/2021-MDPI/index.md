@@ -14,7 +14,7 @@ publication_types:
   - '2'
 summary: 'We developed a luminex-based serological assay for measuring antibodies to a panel of SARS-CoV-2 and other respiratory virus antigens.'
 subtitle: 'We developed a luminex-based serological assay for measuring antibodies to a panel of SARS-CoV-2 and other respiratory virus antigens.'
-featured: yes
+featured: no
 links:
 - icon: doi
   icon_pack: ai

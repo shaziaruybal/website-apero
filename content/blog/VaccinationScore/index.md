@@ -5,7 +5,7 @@ categories:
 - Digital tools
 date: ""
 draft: false
-excerpt: This Shiny web application was developed during the initial vaccine roll‐out in Ecuador to help individuals better understand their "priority status"" to receive their COVID‐19 vaccine. An algorithm was applied to calculate a priority score based on an individuals answers to a set of questions on socioeconomic status, occupation, exposure, risk behavior, comorbidities, etc.
+excerpt: Tool to support initial COVID-19 vaccine roll‐out in Ecuador using a prioriization algorithm
 layout: single
 links:
 - icon: globe

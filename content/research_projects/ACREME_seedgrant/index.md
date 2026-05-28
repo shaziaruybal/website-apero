@@ -9,6 +9,10 @@ draft: false
 excerpt: This collaborative project aims to build the capacity for a novel genotyping tool for tracking malaria infections over space and time and quantifying clones within individual infections for improved malaria surveillance in the Asia-Pacific region. This tool is based on amplicon deep sequencing and will be optimized and validated on samples collected from Papua New Guinea and Myanmar. This tool can be used in a range of applications, including but not limited to, longitudinal studies, clinical efficacy trials, and to answer fundamental research questions about the biology of *Plasmodium* spp, such as discriminating recrudescence vs reinfection vs relapse.
 layout: single
 links:
+- icon: doi
+  icon_pack: ai
+  name: publication
+  url: https://doi.org/10.1016/j.isci.2026.115799
 - icon: link
   icon_pack: fas
   name: more info
@@ -20,4 +24,9 @@ tags:
 title: Building capacity for improved malaria surveillance genotyping tools
 ---
 
-This collaborative project aims to build the capacity for a novel genotyping tool for tracking malaria infections over space and time and quantifying clones within individual infections for improved malaria surveillance in the Asia-Pacific region. This tool is based on amplicon deep sequencing and will be optimized and validated on samples collected from Papua New Guinea and Myanmar. This tool can be used in a range of applications, including but not limited to, longitudinal studies, clinical efficacy trials, and to answer fundamental research questions about the biology of *Plasmodium* spp, such as discriminating recrudescence vs reinfection vs relapse.
+This collaborative project aims to build the capacity for a novel genotyping tool for tracking malaria infections 
+over space and time and quantifying clones within individual infections for improved malaria surveillance in 
+the Asia-Pacific region. This tool is based on amplicon deep sequencing and is now published in [Rosado et al 2026](https://doi.org/10.1016/j.isci.2026.115799). 
+This tool can be used in a range of applications, including but not limited to, longitudinal studies, clinical efficacy trials, and to answer fundamental 
+research questions about the biology of *Plasmodium* spp, such as discriminating recrudescence vs 
+reinfection vs relapse.

@@ -12,8 +12,8 @@ layout: single
 links:
 - icon: doi
   icon_pack: ai
-  name: Pre-print
-  url: "https://www.medrxiv.org/content/10.1101/2021.04.12.21255093v1"
+  name: Publication
+  url: "https://doi.org/10.3389/fitd.2023.1085862"
 - icon: link
   icon_pack: fas
   name: More info
@@ -32,4 +32,4 @@ We applied the *var*code, a genotyping tool used to fingerprint variant antigen 
 
 ![](varcode_diagram.pdf)
 
-Below you can see a spatiotemporal genetic relatedness network depicting the transmission dynamics of *P. falciparum* clinical cases during and after the outbreak, for more details check out our pre-print (https://www.medrxiv.org/content/10.1101/2021.04.12.21255093v1). ![](featured.gif)
+Below you can see a spatiotemporal genetic relatedness network depicting the transmission dynamics of *P. falciparum* clinical cases during and after the outbreak, for more details check out the publication (https://doi.org/10.3389/fitd.2023.1085862). ![](featured.gif)

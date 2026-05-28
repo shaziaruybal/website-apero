@@ -6,7 +6,7 @@ categories:
 - Epidemiology
 date: ""
 draft: false
-featured: true
+featured: false
 excerpt: This work is part of a large, interdisciplinary and multi-institutional project funded by the [Asia-Pacific International Centers of Excellence for Malaria Research](https://www.niaid.nih.gov/research/asia-pacific-international-center-excellence-malaria-research) and aims to elucidate epidemiological, host and parasite risk factors that contribute to resurgent malaria in Papua New Guinea communities.
 layout: single
 links:
