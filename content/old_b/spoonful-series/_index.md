@@ -6,7 +6,7 @@ cascade:
   - Theme Features
   - R
   layout: single-series
-  series: A Spoonful of Hugo
+  series: 
   show_author_byline: true
   show_post_date: true
   sidebar:
@@ -34,8 +34,8 @@ sidebar:
   show_sidebar_adunit: false
   text_link_label: ""
   text_link_url: ""
-  title: A Spoonful of Hugo
-title: A Spoonful of Hugo
+  title: 
+title:
 ---
 
 ** No content below YAML for the series _index. This file is a leaf bundle, and provides settings for the listing page layout and sidebar content.**

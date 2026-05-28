@@ -2,7 +2,7 @@
 cascade:
   headless: true
 description: |
-  The personal website of Shazia Ruybal Pesántez.
+  The personal website of Dr Shazia Ruybal Pesántez.
 show_header: false
 sidebar_left: true
 title: About me

@@ -10,6 +10,14 @@ draft: false
 excerpt: During my PhD I investigated the genetic epidemiology of the malaria parasite *Plasmodium falciparum* in Bongo District, Ghana in the laboratory of [Professor Karen Day](http://www.bio21.unimelb.edu.au/day-group). I discovered that residents of all ages harbored infections that were genetically diverse and structured to ensure lifelong carriage of parasites. The findings from my PhD have supported the development of a novel malaria surveillance tool called the "*var*code" that can be applied to genetically fingerprint parasites based on variant antigen genes.    
 layout: single
 links:
+- icon: doi
+  icon_pack: ai
+  name: Publication
+  url: "https://doi.org/10.1016/j.ijpara.2021.12.001"
+- icon: doi
+  icon_pack: ai
+  name: Publication
+  url: "https://doi.org/10.1038/s41598-017-11814-9"
 - icon: link
   icon_pack: fas
   name: thesis

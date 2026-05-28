@@ -15,7 +15,7 @@ publication_types:
 publication: 'American Journal of Tropical Medicine and Hygiene'
 summary: 'We examined the population genetics of the asymptomatic *P. falciparum* reservoir in Ghana.'
 subtitle: 'We examined the population genetics of the asymptomatic P. falciparum reservoir in Ghana'
-featured: yes
+featured: no
 links:
 - icon: doi
   icon_pack: ai
