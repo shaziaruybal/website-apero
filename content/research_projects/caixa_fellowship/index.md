@@ -6,7 +6,7 @@ categories:
 - Genomic surveillance
 date: ""
 draft: false
-excerpt: This collaborative project aims to build the capacity for a novel genotyping tool for tracking malaria infections over space and time and quantifying clones within individual infections for improved malaria surveillance in the Asia-Pacific region. This tool is based on amplicon deep sequencing and will be optimized and validated on samples collected from Papua New Guinea and Myanmar. This tool can be used in a range of applications, including but not limited to, longitudinal studies, clinical efficacy trials, and to answer fundamental research questions about the biology of *Plasmodium* spp, such as discriminating recrudescence vs reinfection vs relapse.
+excerpt: 
 layout: single
 links:
 - icon: users
@@ -16,7 +16,7 @@ links:
 - icon: briefcase
   icon_pack: fas
   name: we are hiring!
-  url: https://shaziaruybal.github.io/TAGUA
+  url: https://shaziaruybal.github.io/TAGUA/join.html
 subtitle: Funded by a La Caixa Junior Leader fellowship
 tags:
 - genomics
@@ -37,11 +37,11 @@ in Africa and Asia-Pacific (objective 2), and translate these findings into acti
 policy strategies for NMEPs and open-source software for the wider research community (objective 3). 
 
 #### Outbreak analytics, computational models and transmission chain inference
-In malaria we lack advanced methods to reconstruction transmission chains by extract meaningful genetic signals from 
-pathogen genomic data, combined with epidemiological data. The unique biological features of malaria parasites, including the non-linear accumulation of genetic diversity due to sexual 
+In malaria we lack advanced methods to reconstruct transmission chains by extracting meaningful genetic signals from 
+pathogen genomic data combined with epidemiological data. The unique biological features of malaria parasites, including the non-linear accumulation of genetic diversity due to sexual 
 recombination in the mosquito vector, and the potential reactivation of dormant hypnozoites in the 
 liver, causing relapses in the case of *P. vivax*, require novel approaches to ‘unlock’ the parasite’s 
-genetic signals. Methods development in this research involves: 
+genetic signals. Methods development in this project involves: 
 
 - **{malariafwd}**: a simulation-based framework for *Plasmodium* genetic epidemiology, in particular this focuses on development 
 of a population genetic simulator for *P. vivax* to ground truth expected genetic signals of *P. vivax* relapses
